@@ -26,7 +26,7 @@ def main():
     """Main method collecting all the parameters to setup."""
     name = "{{cookiecutter.project_name}}"
 
-    version = "0.1.0"
+    version = "0.0.0"
 
     description = "{{cookiecutter.project_description}}"
 
