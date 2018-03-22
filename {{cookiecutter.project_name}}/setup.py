@@ -3,7 +3,7 @@
 ###############################################################################
 #     {{cookiecutter.project_name}}
 #
-#     Copyright (C) 2017  MAX IV Laboratory, Lund Sweden.
+#     Copyright (C) 2018  MAX IV Laboratory, Lund Sweden.
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
