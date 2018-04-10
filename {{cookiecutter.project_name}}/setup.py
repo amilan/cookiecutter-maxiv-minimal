@@ -42,7 +42,7 @@ def main():
 
     provides = ["{{cookiecutter.package_name}}"]
 
-    # requires = ['sardana']
+    requires = ['sphinx_rtd_theme']
 
     setup(
         name=name,
